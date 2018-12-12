@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "909346563251",
+    "firebase_url": "https://railwayempire.firebaseio.com",
+    "project_id": "railwayempire",
+    "storage_bucket": "railwayempire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909346563251:android:11eb8e55d73e6f77",
+        "android_client_info": {
+          "package_name": "com.example.saranya.railwayempire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909346563251-4k676njnjbbh4pm9dp19nah2b64dii57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saranya.railwayempire",
+            "certificate_hash": "94aa0fe3f3e85966a8dce6073aa6708e03421423"
+          }
+        },
+        {
+          "client_id": "909346563251-9d96j3omi5cjqnlh4kcrhb91tj97lc7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saranya.railwayempire",
+            "certificate_hash": "a5426e81e7fe031bec38902a804d71e098105d88"
+          }
+        },
+        {
+          "client_id": "909346563251-dk6k2e6jkrv2pt8ujlms3kdna9uddm42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnkn7MxfFQqKrQLtTypzUQDkPQBMlMQV0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909346563251-dk6k2e6jkrv2pt8ujlms3kdna9uddm42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
